@@ -1,0 +1,5 @@
+{
+  "name": "trend-reversal-gap-v1",
+  "provenance": "Invented decimal prices for an engineering demonstration; no market source.",
+  "prices": ["100", "101", "102", "103", "104", "102", "99", "98", "99", "100", "101", "102", "103", "104", "105", "106", "88", "96", "97", "98", "99", "100", "101", "102"]
+}
