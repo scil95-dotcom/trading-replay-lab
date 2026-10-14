@@ -43,6 +43,7 @@ def main():
     except Exception as exc:
         history = 'HISTORY_UNAVAILABLE'
         history_error = type(exc).__name__
+    print('History continuity: ' + history)
     spec = importlib.util.spec_from_file_location('watch', ROOT / 'crypto-monitor/crypto_watch.py')
     watch = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(watch)
