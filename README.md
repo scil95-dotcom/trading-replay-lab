@@ -1,5 +1,11 @@
 # Trading Replay Lab
 
+## Automated research extension — October 2026
+
+[Research method and status](docs/RESEARCH.md) · [Actions and reports](https://github.com/scil95-dotcom/trading-replay-lab/actions) · [LinkedIn/X drafts](docs/SOCIAL_DRAFTS.md)
+
+The `research/` extension adds recovered Crypto/Carry regression checks, verifies that the unsafe Noise order CLI remains blocked, and collects public crypto/DEX observations hourly. It runs without LLM calls or broker credentials. Reports explicitly distinguish partial data, descriptive watchlists and blocked historical backtests. It does not provide validated entries. The original synthetic replay below remains independent of these networked research scripts.
+
 A personal, AI-assisted engineering demo by **Alfio Scilio**: an offline replay engine that makes signal timing, execution costs, cash limits and risk events inspectable. It uses invented prices and a deliberately small strategy so reviewers can follow every fill.
 
 The engineering focus is reproducibility and explicit assumptions. This is a new portfolio demonstration, not a record of professional trading experience or investment performance.

@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 .venv/
 artifacts/ci-demo.json
+reports/
+*.sqlite
+.env
+*.parquet
