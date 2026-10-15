@@ -2,7 +2,7 @@
 
 ## Automated research extension — October 2026
 
-[Research method and status](docs/RESEARCH.md) · [Actions and reports](https://github.com/scil95-dotcom/trading-replay-lab/actions) · [LinkedIn/X drafts](docs/SOCIAL_DRAFTS.md)
+[Research method and status](docs/RESEARCH.md) · [Actions and reports](https://github.com/scil95-dotcom/trading-replay-lab/actions)
 
 The `research/` extension adds recovered Crypto/Carry regression checks, verifies that the unsafe Noise order CLI remains blocked, and collects public crypto/DEX observations hourly. It runs without LLM calls or broker credentials. Reports explicitly distinguish partial data, descriptive watchlists and blocked historical backtests. It does not provide validated entries. The original synthetic replay below remains independent of these networked research scripts.
 
